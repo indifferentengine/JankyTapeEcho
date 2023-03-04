@@ -1,0 +1,12 @@
+Board Specs
+
+Mainboard:
+100mm x 84mm
+2 Layers
+Designed to 6/6mil minimum track spacing
+
+Control board:
+126mm x 59mm
+2 Layers
+Designed to 6/6mil minimum track spacing
+
