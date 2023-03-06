@@ -6,7 +6,7 @@ An open-source, DIY tape echo effect pedal built from a cheap cassette player an
 
 This is kinda what this thing sounds like.
 
-[![Demonstration Video]([https://img.youtube.com/vi/L56cCJ4o1s4/0.jpg)](https://www.youtube.com/watch?v=L56cCJ4o1s4](https://www.youtube.com/watch?v=j26JLl0Hhg4))
+[![Demonstration Video]([https://img.youtube.com/vi/j26JLl0Hhg4/0.jpg)](https://www.youtube.com/watch?v=j26JLl0Hhg4](https://www.youtube.com/watch?v=j26JLl0Hhg4))
 
 # License
 
